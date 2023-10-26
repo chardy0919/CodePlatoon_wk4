@@ -1,0 +1,31 @@
+#carousel  {
+    display: flex;
+}
+header {
+    background-color: rgba(0, 0, 0, 0.685);
+    border: solid blue 1px;
+    display : flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+nav {
+    color: aliceblue ;
+    display : flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+    justify-content: space-around;
+    width: 15em
+}
+.nav-item{
+    border: 2px solid ;
+}
+#img1{
+    display: flex;
+}
+#wrapper{
+
+   width: 100%;
+   height: auto;
+
+}
